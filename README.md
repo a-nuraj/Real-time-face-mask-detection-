@@ -57,9 +57,5 @@ Green - Mask detected
 
 Red - No mask detected
 
- Developed by
 
-Anuraj K.P
-
-Student, IHub School of Learning
 
