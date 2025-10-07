@@ -54,10 +54,12 @@ You can download a similar dataset from [Kaggle - Face Mask Detection Dataset](h
 The system shows webcam video with text:
 
 Green - Mask detected
+
 Red - No mask detected
 
  Developed by
 
 Anuraj K.P
+
 Student, IHub School of Learning
 
